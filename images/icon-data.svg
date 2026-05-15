@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Data processing icon">
+  <ellipse cx="32" cy="14" rx="18" ry="7" fill="#d6001c"/>
+  <path d="M14 14V36C14 40 22 43 32 43C42 43 50 40 50 36V14" fill="#171c24" stroke="#f2f5f8" stroke-width="2"/>
+  <path d="M14 24C14 28 22 31 32 31C42 31 50 28 50 24" fill="none" stroke="#00a3ad" stroke-width="2"/>
+  <path d="M14 32C14 36 22 39 32 39C42 39 50 36 50 32" fill="none" stroke="#00a3ad" stroke-width="2"/>
+  <rect x="24" y="46" width="16" height="10" rx="3" fill="#00a3ad"/>
+</svg>
